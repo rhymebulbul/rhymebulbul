@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 #### What I'm doing?
 - 🏢 Working at **[NAB](https://www.nab.com.au/)** as a **Software Engineer**.
 - 👨‍💻 Writing `Java` `Spring` `Javascript` `SQL`.
-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/rhyme-bulbul/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=25></a> <!--[LinkedIn](https://www.linkedin.com/in/rhyme-bulbul/)--> and the **.NET community**.
+- 🌍 Mostly active on <a href="https://www.linkedin.com/in/rhyme-bulbul/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=25></a> <!--[LinkedIn](https://www.linkedin.com/in/rhyme-bulbul/)-->.
 - 📚 Currently learning about **clean architecture**, **wasm**, **computer vision**, and **process mining algorithms**.
 - 🛠️ Working on **microservices**, **digital signatures**, **state machines**, **distributed systems**, **wasm**, and **IoT integrations** professionally.
-- 👯 Looking to collaborate on **.NET projects**.
+- 👯 Looking to collaborate on **embedded systems projects**.
 - 🥰 Building **[NeoBank](https://github.com/rhymebulbul/NeoBank/**as a hobby.
 
 #### What I like to disscuss about? 
