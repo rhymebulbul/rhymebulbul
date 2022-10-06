@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 📚 Currently learning about **clean architecture**, **wasm**, **computer vision**, and **process mining algorithms**.
 - 🛠️ Working on **microservices**, **digital signatures**, **state machines**, **distributed systems**, **wasm**, and **IoT integrations** professionally.
 - 👯 Looking to collaborate on **embedded systems projects**.
-- 🥰 Building **[NeoBank](https://github.com/rhymebulbul/NeoBank/)**as a hobby.
+- 🥰 Building **[NeoBank](https://github.com/rhymebulbul/NeoBank/)** as a hobby.
 
 #### What I like to disscuss about? 
 - 💬 Ask me about `cloud` `web APIs` `system design` `scalability` `design patterns` `data structures` `operating systems` `clean code` `IoT` and `tech culture`.
