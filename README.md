@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 #### What I'm doing?
 - 🏢 Working at **[NAB](https://www.nab.com.au/)** as a **Software Engineer**.
-- 👨‍💻 Writing `Java` `Spring` `Javascript` `SQL`.
+- 👨‍💻 Writing `Java` and `Javascript` with `Spring` `React` `Node` and `Angular`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/rhyme-bulbul/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=25></a> <!--[LinkedIn](https://www.linkedin.com/in/rhyme-bulbul/)-->.
 - 📚 Currently learning about **clean architecture**, **wasm**, **computer vision**, and **process mining algorithms**.
-- 🛠️ Working on **microservices**, **digital signatures**, **state machines**, **distributed systems**, **wasm**, and **IoT integrations** professionally.
+- 🛠️ Working on **microservices**, **miniapps**, **distributed systems**, and **cloud** professionally.
 - 👯 Looking to collaborate on **embedded systems projects**.
 - 🥰 Building **[NeoBank](https://github.com/rhymebulbul/NeoBank/)** as a hobby.
 
@@ -66,10 +66,10 @@ Here are some ideas to get you started:
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
   
 #### What's interesting about me?  
-  - 🧐 I love to be very **precise** and **thorough**.
-  - ✍️ I write about **why a certain code is written instead of what** in the comments.
-  - ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
-  - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **.NET** ecosystem.
+  - 🧐 I love to be very **precise**.
+  - ✍️ I question **why a certain software is written a certain way**.
+  - ⏱️ I'm a **workaholic** and drink tons of ☕ **coffee**.
+  - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **Android** ecosystem.
 <!--Github Stats-->
 <p float="left">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rhymebulbul&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
