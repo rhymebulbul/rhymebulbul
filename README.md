@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🏢 Working at **[NAB](https://www.nab.com.au/)** as a **Software Engineer**.
 - 👨‍💻 Writing `Java` and `Javascript` with `Spring` `React` `Node` and `Angular`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/rhyme-bulbul/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=25></a> <!--[LinkedIn](https://www.linkedin.com/in/rhyme-bulbul/)-->.
-- 📚 Currently learning about **clean architecture**, **wasm**, **computer vision**, and **process mining algorithms**.
+- 📚 Currently learning about **software architecture and design**, **shortest path algorithms**, and **cloud**.
 - 🛠️ Working on **microservices**, **miniapps**, **distributed systems**, and **cloud** professionally.
 - 👯 Looking to collaborate on **embedded systems projects**.
 - 🥰 Building **[NeoBank](https://github.com/rhymebulbul/NeoBank/)** as a hobby.
