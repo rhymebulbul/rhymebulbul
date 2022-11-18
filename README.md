@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 Here are some ideas to get you started:
 -->
 #### Who I am?
-- A software developer based in **[Melbourne](https://en.wikipedia.org/wiki/Melbourne), [Australia](https://en.wikipedia.org/wiki/Australia).** 
-- Have 1 year of hands-on experience in **software development** and **delivery.** 
+- A software engineer based in **[Melbourne](https://en.wikipedia.org/wiki/Melbourne), [Australia](https://en.wikipedia.org/wiki/Australia).** 
+- Have 1 year of hands-on experience in **engineering software**.
 - Developed products for **FinTech and Banking** business domains.
-- Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
+- Built **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **microservices** architectures.
 
 #### What I'm doing?
 - 🏢 Working at **[NAB](https://www.nab.com.au/)** as a **Software Engineer**.
