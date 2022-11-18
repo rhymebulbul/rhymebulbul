@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   - **📜 Languages:** • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ Kotlin` • `👨🏻‍🎨 Ruby`
   - **🔬 Frameworks:**  
     - **🌐 Web:** • 
-  - **💾 Databases:** • [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [MongoDB](https://www.mongodb.com/) • [LiteDB](https://www.litedb.org/) • [SQLite](https://www.sqlite.org/index.html)
+  - **💾 Databases:** • [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [MongoDB](https://www.mongodb.com/)
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
 - 🎡 **Software development ecosystem:**
   - **📁 VCS:** • [Git](https://git-scm.com/) 
