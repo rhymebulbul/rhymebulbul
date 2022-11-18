@@ -57,11 +57,9 @@ Here are some ideas to get you started:
 - **🏗️ Code editors:**
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
   
-#### What's interesting about me?  
-  - 🧐 Love to be very **precise**.
+#### Some interesting facts about me?  
   - ✍️ I question **why a certain software is written a certain way**.
-  - ⏱️ I'm a **workaholic** and drink tons of ☕ **coffee**.
-  - 😅 Just can't **resist the urge** to **explore** a new **tech** released in the **Android** ecosystem.
+  - 😅 Just can't **resist the urge** to explore the **Android** platform and **Linux Kernel**.
 <!--Github Stats-->
 <p float="left">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rhymebulbul&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
