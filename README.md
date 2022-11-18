@@ -26,17 +26,17 @@ Here are some ideas to get you started:
 - Developed products for **FinTech and Banking** business domains.
 - Built **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **microservices** architectures.
 
-#### What I'm doing?
-- 🏢 Working at **[NAB](https://www.nab.com.au/)** as a **Software Engineer**.
-- 👨‍💻 Writing `Java` and `Javascript` with `Spring` `React` `Node` and `Angular`.
+#### What do I do?
+- 🏢 Work at **[NAB](https://www.nab.com.au/)** as a **Software Engineer**.
+- 👨‍💻 Write `Java` and `Javascript` with `Spring` `React` `Node` and `Angular`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/rhyme-bulbul/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=25></a> <!--[LinkedIn](https://www.linkedin.com/in/rhyme-bulbul/)-->.
 - 📚 Currently learning about **software architecture and design**, **shortest path algorithms**, and **cloud**.
 - 🛠️ Working on **microservices**, **miniapps**, **distributed systems**, and **cloud** professionally.
-- 👯 Looking to collaborate on **embedded systems projects**.
+- 👯 Looking to collaborate on **Linux kernel** or **embedded systems projects**.
 - 🥰 Building **[NeoBank](https://github.com/rhymebulbul/NeoBank/)** as a hobby.
 
 #### What I like to disscuss about? 
-- 💬 Ask me about `cloud` `web APIs` `system design` `scalability` `design patterns` `data structures` `operating systems` `clean code` `IoT` and `tech culture`.
+- 💬 Ask me about `linux kernel` `cloud` `web APIs` `system design` `scalability` `design patterns` `data structures` `operating systems` `clean code` and `IoT`.
 
 #### What my skill set looks like?
   - **📜 Languages:** • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ Kotlin` • `👨🏻‍🎨 Ruby`
