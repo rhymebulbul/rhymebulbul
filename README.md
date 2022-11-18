@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 👯 Looking to collaborate on **Linux kernel** or **embedded systems projects**.
 - 🥰 Building **[NeoBank](https://github.com/rhymebulbul/NeoBank/)** as a hobby.
 
-#### What I like to disscuss about? 
+#### What I like chatting about? 
 - 💬 Ask me about `linux kernel` `cloud` `web APIs` `system design` `scalability` `design patterns` `data structures` `operating systems` `clean code` and `IoT`.
 
 #### What my skill set looks like?
