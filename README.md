@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **rhymebulbul/rhymebulbul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 Here are some ideas to get you started:
 -->
+### Hi there 👋
+  - my name is Rhyme 
+ 
 #### Who I am?
 - A software engineer based in **[Melbourne](https://en.wikipedia.org/wiki/Melbourne), [Australia](https://en.wikipedia.org/wiki/Australia).** 
 - 1 year of hands-on experience in **engineering software**.
@@ -52,9 +55,6 @@ Here are some ideas to get you started:
 - 🧙‍♂️ **Coding pattern & principles:**
   - **⚒ Patterns:**  [Bridge](https://en.wikipedia.org/wiki/Bridge_pattern) • [FACTORY](https://en.wikipedia.org/wiki/Factory_method_pattern) • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) • [SAGA](https://microservices.io/patterns/data/saga.html) • [Message Queuing](https://www.cloudamqp.com/blog/what-is-message-queuing.html)
   - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
-
-- **🏗️ Code editors:**
-<a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
   
 #### Some interesting facts about me?  
   - ✍️ I question **why a certain software is written a certain way**.
