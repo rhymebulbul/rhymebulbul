@@ -64,8 +64,6 @@ Here are some ideas to get you started:
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rhymebulbul&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhymebulbul&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-[![Rhyme's stats](https://github-readme-stats.vercel.app/api?username=RhymeBulbul)](https://github.com/KowsarRahman/github-readme-stats)<br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhymeBulbul&langs_count=10)](https://github.com/RhymeBulbul/github-readme-stats)
 
 
 
