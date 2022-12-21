@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 #### Who I am?
 - my name is Rhyme 
 - A software engineer based in **[Melbourne](https://en.wikipedia.org/wiki/Melbourne), [Australia](https://en.wikipedia.org/wiki/Australia).** 
-- 1 year of hands-on experience in **engineering software**.
 - Developed products for **FinTech and Banking** business domains.
 - Built **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **microservices** architectures.
 
