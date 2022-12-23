@@ -25,13 +25,13 @@ Here are some ideas to get you started:
  
 #### Who I am?
 - my name is Rhyme 
-- A software engineer based in **[Melbourne](https://en.wikipedia.org/wiki/Melbourne), [Australia](https://en.wikipedia.org/wiki/Australia).** 
+- a software engineer based in **[Melbourne](https://en.wikipedia.org/wiki/Melbourne), [Australia](https://en.wikipedia.org/wiki/Australia).** 
 - Developed products for **FinTech and Banking** business domains.
 - Built **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **microservices** architectures.
 
 #### What do I do?
 - 🏢 Work at **[NAB](https://www.nab.com.au/)** as a **Software Engineer**.
-- 👨‍💻 Write `Java` and `Javascript` with `Spring` `React` `Node` and `Angular`.
+- 👨‍💻 Write `Java` and `Javascript` with `Spring` and `React`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/rhyme-bulbul/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=25></a> <!--[LinkedIn](https://www.linkedin.com/in/rhyme-bulbul/)-->.
 - 📚 Currently learning about **software architecture and design**, **shortest path algorithms**, and **cloud**.
 - 🛠️ Working on **microservices**, **miniapps**, **distributed systems**, and **cloud** professionally.
