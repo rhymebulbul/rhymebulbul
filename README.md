@@ -23,11 +23,14 @@ Here are some ideas to get you started:
 ### Hi there 👋
   
  
+ 
 #### Who I am?
 - my name is Rhyme 
 - a software engineer based in **[Melbourne](https://en.wikipedia.org/wiki/Melbourne), [Australia](https://en.wikipedia.org/wiki/Australia).** 
 - Developed products for **FinTech and Banking** business domains.
 - Built **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **microservices** architectures.
+
+
 
 #### What do I do?
 - 🏢 Work at **[NAB](https://www.nab.com.au/)** as a **Software Engineer**.
@@ -41,19 +44,29 @@ Here are some ideas to get you started:
 #### What I like chatting about? 
 - 💬 Ask me about `linux kernel` `cloud` `web APIs` `system design` `scalability` `design patterns` `data structures` `operating systems` `clean code` and `IoT`.
 
+
+
 #### What my skill set looks like?
 - 🧙‍♂️ **Coding pattern & principles:**
   - **⚒ Patterns:**  [Bridge](https://en.wikipedia.org/wiki/Bridge_pattern) • [FACTORY](https://en.wikipedia.org/wiki/Factory_method_pattern) • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) • [SAGA](https://microservices.io/patterns/data/saga.html) • [Message Queuing](https://www.cloudamqp.com/blog/what-is-message-queuing.html)
   - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
   
+  
+  
 #### Some interesting facts about me?  
   - ✍️ I question **why a certain software is written a certain way**.
   - 😅 Just can't **resist the urge** to explore the **Android** platform and **Linux Kernel**.
+
+
+
 <!--Github Stats-->
-<p float="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rhymebulbul&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhymebulbul&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+---
+My Github Stats:
+---
+![rhyme's github stats](https://github-readme-stats.vercel.app/api?username=rhymebulbul&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhymebulbul&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rhymebulbul&theme=dark)](https://git.io/streak-stats)
+---
 
 
 
