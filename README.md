@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 #### What my skill set looks like?
 - 🧙‍♂️ **Coding pattern & principles:**
   - **⚒ Patterns:**  [Bridge](https://en.wikipedia.org/wiki/Bridge_pattern) • [FACTORY](https://en.wikipedia.org/wiki/Factory_method_pattern) • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) • [Message Queuing](https://www.cloudamqp.com/blog/what-is-message-queuing.html)
-  - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+  - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
   
   
   
