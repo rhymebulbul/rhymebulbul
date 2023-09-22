@@ -23,13 +23,11 @@ Here are some ideas to get you started:
 ### Hi there 👋
   
  
- 
 #### Who I am?
 - my name is Rhyme 
 - a software engineer based in **[Melbourne](https://en.wikipedia.org/wiki/Melbourne), [Australia](https://en.wikipedia.org/wiki/Australia)** 🌍
 - Developed **Payments & Cards** products for **FinTech and Banking** business domains.
 - Built **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **microservices** architectures.
-
 
 
 #### What do I do?
@@ -40,10 +38,10 @@ Here are some ideas to get you started:
 - 🛠️ Working on **microservices**, **miniapps** and **cloud** professionally.
 - 👯 Looking to collaborate on **Linux kernel** or **embedded systems projects**.
 - 🥰 Building **[NeoBank](https://github.com/rhymebulbul/NeoBank/)** as a hobby.
+  
 
 #### What I like chatting about? 
-- 💬 Ask me about `linux kernel` `cloud` `web APIs` `system design` `scalability` `design patterns` `data structures` `operating systems` `clean code` and `IoT`.
-
+- 💬 Ask me about `linux kernel` `cloud` `web APIs` `operating systems` and `clean code` .
 
 
 #### What my skill set looks like?
@@ -52,11 +50,9 @@ Here are some ideas to get you started:
   - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
   
   
-  
 #### Some interesting facts about me?  
   - ✍️ I question **why a certain software is written a certain way**.
   - 😅 Just can't **resist the urge** to explore the **Android** platform and **Linux Kernel**.
-
 
 
 <!--Github Stats-->
