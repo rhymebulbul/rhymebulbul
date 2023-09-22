@@ -26,17 +26,17 @@ Here are some ideas to get you started:
  
 #### Who I am?
 - my name is Rhyme 
-- a software engineer based in **[Melbourne](https://en.wikipedia.org/wiki/Melbourne), [Australia](https://en.wikipedia.org/wiki/Australia).** 
-- Developed products for **FinTech and Banking** business domains.
+- a software engineer based in **[Melbourne](https://en.wikipedia.org/wiki/Melbourne), [Australia](https://en.wikipedia.org/wiki/Australia)** 🌍
+- Developed **Payments & Cards** products for **FinTech and Banking** business domains.
 - Built **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **microservices** architectures.
 
 
 
 #### What do I do?
-- 🏢 Work at **[NAB](https://www.nab.com.au/)** as a **Software Engineer**.
-- 👨‍💻 Write `Java` and `Javascript` with `Spring` and `React`.
-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/rhyme-bulbul/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=25></a> <!--[LinkedIn](https://www.linkedin.com/in/rhyme-bulbul/)-->.
-- 📚 Currently learning about **software architecture and design**, **shortest path algorithms**, and **cloud**.
+- 🏢 Work at **[Macquarie Group](https://www.macquarie.com/au/en.html)** as a **Software Engineer**.
+- 👨‍💻 Write `Java` and `Python` with `Spring`.
+- 🌍 Mostly active on **LinkedIn**  <a href="https://www.linkedin.com/in/rhyme-bulbul/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=25></a> <!--[LinkedIn](https://www.linkedin.com/in/rhyme-bulbul/)-->.
+- 📚 Currently learning about **software architecture and design** and **cloud**.
 - 🛠️ Working on **microservices**, **miniapps** and **cloud** professionally.
 - 👯 Looking to collaborate on **Linux kernel** or **embedded systems projects**.
 - 🥰 Building **[NeoBank](https://github.com/rhymebulbul/NeoBank/)** as a hobby.
