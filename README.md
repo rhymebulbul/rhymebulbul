@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 #### What do I do?
 - 🏢 Work at **[Macquarie Group](https://www.macquarie.com/au/en.html)** as a **Software Engineer**.
-- 👨‍💻 Write `Java` and `Python` with `Spring`.
+- 👨‍💻 Write `Java`, `Javascript` and `Python`.
 - 🌍 Mostly active on **LinkedIn**  <a href="https://www.linkedin.com/in/rhyme-bulbul/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=25></a> <!--[LinkedIn](https://www.linkedin.com/in/rhyme-bulbul/)-->.
 - 📚 Currently learning about **software architecture and design** and **cloud**.
 - 🛠️ Working on **microservices**, **miniapps** and **cloud** professionally.
