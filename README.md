@@ -43,6 +43,20 @@ My Github Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rhymebulbul&theme=dark)](https://git.io/streak-stats)
 ---
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhyme-bulbul/)](https://www.linkedin.com/in/rhyme-bulbul/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhyme3610@gmail.com)](mailto:rhyme3610@gmail.com)
+
+## ⚡ Technologies
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rhymebulbul&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&line_height=24&card_width=350px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhymebulbul&langs_count=8&hide=TeX&layout=compact&theme=dracula&hide_border=true&card_width=350px)
 
 
 <!--
