@@ -31,11 +31,9 @@ Here are some ideas to get you started:
 
 #### What do I do?
 - 🏢 Work at **[Macquarie Group](https://www.macquarie.com/au/en.html)** as a **Software Engineer**.
-- 🌍 Mostly active on **LinkedIn**  <a href="https://www.linkedin.com/in/rhyme-bulbul/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=25></a> 
-<!--[LinkedIn](https://www.linkedin.com/in/rhyme-bulbul/)-->.
+- 🌍 Mostly active on **LinkedIn**  <a href="https://www.linkedin.com/in/rhyme-bulbul/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=25></a> <!--[LinkedIn](https://www.linkedin.com/in/rhyme-bulbul/)-->
   
 
----
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhyme-bulbul/)](https://www.linkedin.com/in/rhyme-bulbul/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhyme3610@gmail.com)](mailto:rhyme3610@gmail.com)
