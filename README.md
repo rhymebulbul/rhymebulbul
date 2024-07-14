@@ -41,10 +41,10 @@ Here are some ideas to get you started:
 
 ## ⚡ Technologies
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </a> 
 
 </p>
-
+-->
 
 
 <!--Github Stats-->
@@ -73,4 +73,4 @@ My Github Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhymebulbul&langs_count=8&hide=TeX&layout=compact&theme=dracula&hide_border=true&card_width=350px)
 -->
 
--->
+
