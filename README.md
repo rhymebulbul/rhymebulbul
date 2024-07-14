@@ -41,6 +41,11 @@ My Github Stats:
 ![rhyme's github stats](https://github-readme-stats.vercel.app/api?username=rhymebulbul&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhymebulbul&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rhymebulbul&theme=dark)](https://git.io/streak-stats)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rhymebulbul&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&line_height=24&card_width=350px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhymebulbul&langs_count=8&hide=TeX&layout=compact&theme=dracula&hide_border=true&card_width=350px)
+
+
 ---
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhyme-bulbul/)](https://www.linkedin.com/in/rhyme-bulbul/)
@@ -54,9 +59,6 @@ My Github Stats:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rhymebulbul&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&line_height=24&card_width=350px)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhymebulbul&langs_count=8&hide=TeX&layout=compact&theme=dracula&hide_border=true&card_width=350px)
 
 
 <!--
