@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 #### Who I am?
 - my name is Rhyme 
 - a software engineer based in **[Melbourne](https://en.wikipedia.org/wiki/Melbourne), [Australia](https://en.wikipedia.org/wiki/Australia)** 🌍
-- Developed **Payments & Cards** products for **FinTech and Banking** business domains.
+- Over 3 years of experience developing **Payments & Cards** products for **FinTech and Banking** business domains.
 
 
 #### What do I do?
